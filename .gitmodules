@@ -1,0 +1,3 @@
+[submodule "agnos"]
+	path = agnos
+	url = https://github.com/krtab/agnos.git
